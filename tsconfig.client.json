@@ -11,6 +11,8 @@
     ],
     "files": [
         "client/app/app.ts",
+        "client/app/games/games.controller.ts",
+        "client/app/games/games.ts",
         "client/app/main/main.controller.ts",
         "client/app/main/main.ts",
         "client/components/footer/footer.directive.ts",
